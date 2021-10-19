@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-10-19 18:01:21.669 UTC</timestamp>
+  <md5sum>80c0b890247338b1af9cbe29a4c49886</md5sum>
+  <fileName>Credential id=42291855-6bee-4770-bf75-87dc64520687 name=saiprakash29/******</fileName>
+  <usages>
+    <entry>
+      <string>task</string>
+      <ranges>5-6</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

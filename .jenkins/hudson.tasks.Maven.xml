@@ -6,5 +6,10 @@
       <home>/opt/maven3</home>
       <properties/>
     </hudson.tasks.Maven_-MavenInstallation>
+    <hudson.tasks.Maven_-MavenInstallation>
+      <name>maven3</name>
+      <home>/opt/maven3</home>
+      <properties/>
+    </hudson.tasks.Maven_-MavenInstallation>
   </installations>
 </hudson.tasks.Maven_-DescriptorImpl>

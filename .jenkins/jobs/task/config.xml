@@ -8,7 +8,8 @@
     <configVersion>2</configVersion>
     <userRemoteConfigs>
       <hudson.plugins.git.UserRemoteConfig>
-        <url>https://github.com/saiprakash29/Spring.git</url>
+        <url>https://github.com/saiprakash29/petclinic.git</url>
+        <credentialsId>42291855-6bee-4770-bf75-87dc64520687</credentialsId>
       </hudson.plugins.git.UserRemoteConfig>
     </userRemoteConfigs>
     <branches>
