@@ -1,0 +1,23 @@
+Started by user [8mha:////4EegkWoY3a5hkpXRArQCdgsLmHs0e2VHb6LxssMrDOIoAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/dLi1CL9rNS87My8YgDGtiJjwgAAAA==[0mjenkins
+Started by user [8mha:////4EegkWoY3a5hkpXRArQCdgsLmHs0e2VHb6LxssMrDOIoAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/dLi1CL9rNS87My8YgDGtiJjwgAAAA==[0mjenkins
+Running as SYSTEM
+Building in workspace /home/ec2-user/.jenkins/workspace/task
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/saiprakash29/Spring.git
+ > git init /home/ec2-user/.jenkins/workspace/task # timeout=10
+Fetching upstream changes from https://github.com/saiprakash29/Spring.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.32.0'
+ > git fetch --tags --force --progress -- https://github.com/saiprakash29/Spring.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/saiprakash29/Spring.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision e26a0974c9233cce2cf94532ad3c1c5c8fdf8584 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f e26a0974c9233cce2cf94532ad3c1c5c8fdf8584 # timeout=10
+Commit message: "first commit"
+First time build. Skipping changelog.
+Finished: SUCCESS
